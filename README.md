@@ -11,3 +11,6 @@ A terminal based maze game writen in C++ using ncurses.
 
 # How to compile
 g++ *.cpp -lncurses -o game
+
+# How to run 
+./game map_name
