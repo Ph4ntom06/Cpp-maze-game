@@ -6,6 +6,7 @@
 # Built directories
 build/
 cmake-build-*.
+g++
 
 # Editor files
 .vscode/
