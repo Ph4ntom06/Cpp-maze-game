@@ -1,6 +1,6 @@
 # C++ Maze Game
 
-A terminal based maze game writen in C++ using ncurses.
+A terminal based maze game writen in C++ using ncurses. In the repository you can find 2 premade maps made by me!
 
 # Description
 
@@ -14,7 +14,7 @@ The user watches the 2 characters(G and A) try to find their way to eachother. T
 - Different movement algorithms for different circumstances
 
 # How to compile
-g++ *.cpp -lncurses -o game
+g++ *.cpp -lncurses -o <game_name>
 
 # How to run 
-./game map_name
+./<game_name> selected_map
