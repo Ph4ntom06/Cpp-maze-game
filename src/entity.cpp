@@ -1,4 +1,4 @@
-#include "entity.h"
+#include "../include/entity.h"
 #include <iostream>
 #include <cstdlib>
 #include <ncurses.h>

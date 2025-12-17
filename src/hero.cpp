@@ -1,4 +1,4 @@
-#include "hero.h"
+#include "../include/hero.h"
 #include <cstdlib>
 #include <ncurses.h>
 

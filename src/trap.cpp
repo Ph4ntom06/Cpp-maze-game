@@ -1,6 +1,6 @@
 #include <iostream>
 #include <ncurses.h>
-#include "trap.h"
+#include "../include/trap.h"
 
 void trap::checkTrigger(std::vector<hero*>& heroes) {
     if(!active){return;}

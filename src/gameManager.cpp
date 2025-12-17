@@ -1,4 +1,4 @@
-#include "gameManager.h"
+#include "../include/gameManager.h"
 #include <ncurses.h>
 #include <iostream>
 #include <cstdlib>

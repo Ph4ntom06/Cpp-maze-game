@@ -1,4 +1,4 @@
-#include "key.h"
+#include "../include/key.h"
 #include <ncurses.h>
 
 bool key::isPickedUp() const{

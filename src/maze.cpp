@@ -1,4 +1,4 @@
-#include "maze.h"
+#include "../include/maze.h"
 #include <fstream>
 #include <ncurses.h>
 
